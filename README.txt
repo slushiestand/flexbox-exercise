@@ -1,6 +1,8 @@
-#README
+README
+======
 
-### Work in progress
+Work in progress
+-----------------
 * This is a continual WIP to practice FlexBox, and CSS styling/animations
 
 INTRODUCTION
