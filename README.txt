@@ -1,5 +1,5 @@
-README
-======
+# Exercise in FlexBox and CSS styling
+
 
 Work in progress
 -----------------
