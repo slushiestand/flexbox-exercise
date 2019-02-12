@@ -97,7 +97,10 @@ button {
 .address {
   color: #705834;
   font-size: 1.6em;
-  margin-top: -15px;
+}
+
+.address-header {
+  margin-bottom: 0;
 }
 
 .address li {
@@ -133,15 +136,9 @@ border-bottom: 3px solid #CBCBCB;
 }
 
 .first-btn {
-width: 100%;
-height: 75px;
-display: flex;
-align-items: center;
-background: -moz-linear-gradient(0% 100% 90deg, #C5D2DD, #E7EAED);
-background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#E7EAED), to(#C5D2DD));
-border-bottom: 3px solid #CBCBCB;
-border-radius: 15px 15px 0 0;
+  border-radius: 15px 15px 0 0;
 }
+
 
 .btn-title {
 flex-grow: 1;
